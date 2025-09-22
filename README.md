@@ -31,5 +31,5 @@ This repository contains the completed work for the Data Analyst Internship Task
 5. **Data Export**
    - Saved cleaned/processed data using:
      ```python
- 
+ df.to_csv('dataset.csv')
      ```
